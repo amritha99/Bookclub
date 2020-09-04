@@ -1,0 +1,141 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color:#393b44;
+}
+
+.welcome{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color:#393b44;
+}
+
+p{
+    line-height: 2;
+    margin-bottom: 40px;
+
+}
+
+h1{
+  font-size: 4.375rem;
+  font-family: 'Dancing Script', cursive;
+  font-weight: normal;
+  color:#393b44;
+  margin: 50px auto 0 auto;
+}
+
+h2,h3{
+    font-size: 2.5rem;
+    font-family: 'Bebas Neue', cursive;
+    color:#8d93ab;
+}
+
+.footer-link{
+  color:#f1f3f8;
+}
+
+.btn {
+  background: #56556E;
+  background-image: -webkit-linear-gradient(top, #56556E, #595780 );
+  background-image: -moz-linear-gradient(top, #56556E, #595780 );
+  background-image: -ms-linear-gradient(top, #56556E, #595780 );
+  background-image: -o-linear-gradient(top, #56556E, #595780 );
+  background-image: linear-gradient(to bottom, #56556E, #595780 );
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Raleway', sans-serif;;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  width:25%;
+}
+
+.btn:hover {
+  background: #6c6a9e;
+  background-image: -webkit-linear-gradient(top, #6c6a9e, #7271a3);
+  background-image: -moz-linear-gradient(top, #6c6a9e, #7271a3);
+  background-image: -ms-linear-gradient(top, #6c6a9e, #7271a3);
+  background-image: -o-linear-gradient(top, #6c6a9e, #7271a3);
+  background-image: linear-gradient(to bottom, #6c6a9e, #7271a3);
+  text-decoration: none;
+}
+
+  hr{
+    border-width: thick;
+    border-style: dotted none none none;
+    border-color: #d6e0f0;
+    width:5%;
+      }
+
+.top{
+  position:relative;
+  background-color: #f1f3f8;
+  padding-top:100px;
+
+
+}
+
+a{
+    margin:10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+  color:#d6e0f0;
+}
+
+.copyright{
+    color: #f1f3f8;
+    font-size:0.75em;
+}
+
+.middle{
+  padding: 10px 0;
+}
+
+.bottom-cloud{
+  font-family: 'Raleway', sans-serif;
+  position: absolute;
+  left:250px;
+  top:330px;
+}
+
+.top-cloud{
+  position:absolute;
+  right:250px;
+  top:50px;
+}
+.analysis{
+  width:236px;
+  height:236px;
+}
+
+.skill-row{
+  width:50%;
+  margin: 50px auto;
+  padding-bottom: 50px;
+}
+
+.bookclub{
+  width:120px;
+  height:120px;
+}
+
+.review{
+  float:right;
+  margin-left: 30px;
+}
+
+.analysis{
+  float:left;
+  margin-right: 30px;
+}
+
+.bottom{
+  background-color: #8d93ab;
+  margin-top: 100px;
+  padding:50px 0 20px;
+}
